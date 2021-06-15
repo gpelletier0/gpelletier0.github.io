@@ -2809,7 +2809,6 @@ input, select, textarea {
 			font-weight: 600;
 			padding: 0 0.75em 0.75em 0.75em;
 			text-align: left;
-			border: solid 1px rgba(255, 255, 255, 0.125);
 		}
 
 		table thead {
